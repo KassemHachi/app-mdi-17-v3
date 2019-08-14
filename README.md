@@ -2,6 +2,9 @@
 
 version : 3.0 
 
+
+developed by : <a href="https://github.com/softvenue" target="_blank">SoftVenue</a>
+
 this app android for showing the list of doctors who live in Djelfa
 anyone can develope the app and share it 
 <br><br><br><br>
