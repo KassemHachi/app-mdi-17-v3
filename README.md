@@ -2,6 +2,8 @@
 
 version : 3.0 
 
+link download : http://www.mediafire.com/file/tw3zrduvs20mx01/dzappmdi.appmdi17.apk/file
+
 
 developed by : <a href="https://github.com/softvenue" target="_blank">SoftVenue</a>
 
