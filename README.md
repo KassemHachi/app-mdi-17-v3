@@ -1,13 +1,13 @@
 # app-mdi-17-v3
 
-version : 3.0 
+Version : 3.0 
 
-link download : http://www.mediafire.com/file/tw3zrduvs20mx01/dzappmdi.appmdi17.apk/file
+Download : http://www.mediafire.com/file/tw3zrduvs20mx01/dzappmdi.appmdi17.apk/file
 
 
-developed by : <a href="https://github.com/softvenue" target="_blank">SoftVenue</a>
+Developed by : <a href="https://github.com/softvenue" target="_blank">SoftVenue</a>
 
-this app android for showing the list of doctors who live in Djelfa
+Description : this app android for showing the list of doctors who live in Djelfa
 anyone can develope the app and share it 
 <br><br><br><br>
 
